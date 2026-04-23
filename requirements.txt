@@ -18,3 +18,5 @@ pillow
 
 librosa
 webrtcvad-wheels
+resemblyzer
+
