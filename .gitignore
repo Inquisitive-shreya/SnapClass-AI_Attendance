@@ -5,6 +5,6 @@ _pycache_/
 *.pyd
 .env
 .vscode
-.streamlit/
+.streamlit/secrets.toml
 
 dist/
